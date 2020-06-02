@@ -1,0 +1,11 @@
+{
+    "name": "fazvil/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "Vildan Fazlyev",
+            "email": "vildan.fazlyev@gmail.com"
+        }
+    ],
+    "require": {}
+}
